@@ -1,6 +1,6 @@
-core-js@2.4.1
+core-js@2.5.1
 MIT
-Copyright (c) 2014-2016 Denis Pushkarev
+Copyright (c) 2014-2017 Denis Pushkarev
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -43,7 +43,7 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-zone.js@0.8.13
+zone.js@0.8.18
 MIT
 The MIT License
 
@@ -67,14 +67,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-date-fns@1.28.5
+date-fns@1.29.0
 MIT
 # License
 
 date-fns is licensed under the [MIT license](http://kossnocorp.mit-license.org).
 Read more about MIT at [TLDRLegal](https://tldrlegal.com/license/mit-license).
 
-@ng-bootstrap/ng-bootstrap@1.0.0-alpha.29
+@ng-bootstrap/ng-bootstrap@1.0.0-beta.5
 MIT
 MIT
 
@@ -102,11 +102,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-@angular/core@4.3.0
+@angular/core@4.4.5
 MIT
 MIT
 
-angular-resizable-element@1.2.2
+angular-resizable-element@1.2.3
 MIT
 The MIT License (MIT)
 
@@ -130,7 +130,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-@agm/core@1.0.0-beta.0
+@agm/core@1.0.0-beta.1
 MIT
 The MIT License (MIT)
 
@@ -154,7 +154,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-ng2-datepicker@2.1.1
+ng2-datepicker@2.1.2
 MIT
 MIT
 
@@ -182,23 +182,23 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-@angular/router@4.3.0
+@angular/router@4.4.5
 MIT
 MIT
 
-@angular/http@4.3.0
+@angular/http@4.4.5
 MIT
 MIT
 
-@angular/forms@4.3.0
+@angular/forms@4.4.5
 MIT
 MIT
 
-@angular/platform-browser@4.3.0
+@angular/platform-browser@4.4.5
 MIT
 MIT
 
-angular-draggable-droppable@1.0.2
+angular-draggable-droppable@1.1.0
 MIT
 The MIT License (MIT)
 
@@ -222,7 +222,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-@angular/common@4.3.0
+@angular/common@4.4.5
 MIT
 MIT
 
